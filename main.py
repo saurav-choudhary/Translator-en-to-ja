@@ -8,5 +8,5 @@ try:
         print(translation)
     with open('./test-ja.txt', mode ='w') as my_file2:
         my_file2.write(translation)
-except FileNotFoundError as e:
-    print('check you file path silly!')
+except FileNotFoundError as err:
+    print('check your file path silly!', err)
