@@ -1,4 +1,4 @@
-# Translator-en-to-ja-
+# Translator-en-to-ja
 
 You'll need translate module to run this program 
 
